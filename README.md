@@ -1,4 +1,7 @@
 ## Data Pipeline and ETL Process with Power BI and PostgreSQL
+#We have a Google Drive link that contains a PowerBI file in the .pbix format. Due to its size, our group is unable to push it to GitHub as it exceeds the file size limitations set by the platform. 
+👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
+https://drive.google.com/file/d/1sdo85HhS20Sxrye1B1BpN1aVqksuT4Vq/view?usp=sharing
 
 ### About the Dataset
 - Amazon is one of the biggest online retailers in the UK. With this dataset, there is depth idea of what products sell best, which SEO titles generate the most sales, the best price range for a product in a given category, and much more.
