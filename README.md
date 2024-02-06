@@ -2,7 +2,7 @@
 
 ### About the Dataset
 - Amazon is one of the biggest online retailers in the UK. With this dataset, there is depth idea of what products sell best, which SEO titles generate the most sales, the best price range for a product in a given category, and much more.
-- A massive dataset with 2.2 million Amazon products. Includes titles, num of reviews, ratings, prices, and sales data from October 2023
+- A massive dataset with <b>2.2 million</b> Amazon products. Includes titles, num of reviews, ratings, prices, and sales data from October 2023
 - URL to download this data: https://s3.amazonaws.com/fast-ai-nlp/amazon_review_full_csv.tgz
 
 ### ETL Process

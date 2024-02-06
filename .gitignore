@@ -1,4 +1,5 @@
 ETL_process/data_set/amz_uk_processed_data.csv
 ETL_process/__pycache__/db_connection.cpython-312.pyc
-PowerBI_Visualization/Power_BI_Visualization.pbix
+# PowerBI_Visualization/Power_BI_Visualization.pbix
 # PowerBI_Visualization/Power_BI_Visualization.pdf
+.env
